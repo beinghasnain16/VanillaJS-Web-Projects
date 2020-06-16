@@ -18,6 +18,8 @@ movieSelect.addEventListener('change', (e) => {
     updateSelectedCount();
 });
 
+
+
 container.addEventListener('click', (e) => {
     console.log(e)
     if (
